@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Other/Sort content" />
+    <ignoreAction name="Java/Strings/Copy string concatenation text to the clipboard" />
+    <ignoreAction name="Other/Rollback changes in current line" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Java/Declaration/Bind parameters to fields" />
+  </component>
+</application>
