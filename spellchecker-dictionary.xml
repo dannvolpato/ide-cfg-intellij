@@ -1,7 +1,11 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
+      <w>alocado</w>
       <w>alterar</w>
+      <w>cancelado</w>
+      <w>cancelamento</w>
+      <w>cenario</w>
       <w>cronograma</w>
       <w>cronogramas</w>
       <w>disponibilidade</w>
@@ -9,10 +13,15 @@
       <w>disponivel</w>
       <w>distribuicao</w>
       <w>distribuir</w>
+      <w>escala</w>
       <w>executar</w>
+      <w>ferramenta</w>
+      <w>gerenciamento</w>
+      <w>indisponibilidade</w>
       <w>inicial</w>
       <w>inicio</w>
       <w>itens</w>
+      <w>minutos</w>
       <w>operacoes</w>
       <w>ordem</w>
       <w>ordenador</w>
@@ -22,6 +31,8 @@
       <w>processamento</w>
       <w>producao</w>
       <w>recurso</w>
+      <w>situacao</w>
+      <w>trabalho</w>
       <w>tuplas</w>
     </words>
   </component>
